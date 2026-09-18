@@ -92,6 +92,12 @@ Real-time 9-class waste sorting with YOLOv8/ViT, deployed on Raspberry Pi with m
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikramsrini&layout=compact&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikramsrini&hide_border=true" />
+</p>
+
+---
+
 ### 🧩 LeetCode
 
 <p align="center">
